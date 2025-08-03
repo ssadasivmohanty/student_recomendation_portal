@@ -15,11 +15,9 @@ This project is built using **FastAPI** and **SQL Server**. It enables student r
 ---
 
 ## 📁 Project Structure
-├── app.py                 # Main FastAPI application
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── ...
-
+ app.py                 # Main FastAPI application
+ requirements.txt       # Python dependencies
+ README.md              # Project documentation
 
 ---
 
