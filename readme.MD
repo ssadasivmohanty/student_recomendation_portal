@@ -15,7 +15,7 @@ This project is built using **FastAPI** and **SQL Server**. It enables student r
 ---
 
 ## 📁 Project Structure
-branch-recommendation/
+student_recomendation_portal/
 ├── app.py              # Main FastAPI application file
 ├── requirements.txt    # Project dependencies
 ├── README.md           # Project documentation
