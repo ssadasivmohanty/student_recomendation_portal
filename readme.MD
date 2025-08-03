@@ -15,9 +15,9 @@ This project is built using **FastAPI** and **SQL Server**. It enables student r
 ---
 
 ## 📁 Project Structure
- app.py            
- requirements.txt 
- README.md 
+├── app.py # Main FastAPI application file
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation
 
 ---
 
@@ -43,3 +43,9 @@ This project is built using **FastAPI** and **SQL Server**. It enables student r
 
 #### The app will be accessible at:
 🔗 http://127.0.0.1:8000
+
+
+## 🧑‍💻 Author
+Sourabha Sadasiv Mohanty
+📧 [sourabhasadasiv@gmail.com]
+🔗 https://github.com/ssadasivmohanty
